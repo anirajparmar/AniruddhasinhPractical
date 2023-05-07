@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AniruddhasinhPractical</string>
+    <string name="retry">Retry</string>
+    <string name="ok">Ok</string>
+    <string name="item_name">Item name</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_data_found">No data found.</string>
+</resources>
